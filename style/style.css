@@ -36,10 +36,9 @@ body {
 .btn {
     display: flex;
     justify-content: space-evenly;
-    padding-top: 10px;
 }
 .btn button{
-    width: 150px;
+    width: 180px;
     height: 40px;
     border-radius: 10px;
 }
