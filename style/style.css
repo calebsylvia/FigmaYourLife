@@ -1,0 +1,125 @@
+body {
+    background-color: #7079C5;
+}
+
+.navbar{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.navbar-brand{
+    font-size: 50px;
+}
+
+.dropstart{
+    margin-left: auto;
+    
+}
+
+/* first page */
+.cont {
+    margin: 75px;
+}
+
+.text-box{
+    margin: 15px 25px 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+
+
+.btn {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+}
+.btn button{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.btn a{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.btn button:hover{
+    background-color: gray;
+}
+
+/* second page */
+
+.achievements {
+    position: relative;
+}
+#crimson{
+    border: 2px solid black;
+    display: flex;
+}
+
+#captain{
+    border: 2px solid black;
+}
+.crimson{
+    display: flex;
+    align-items: center;
+}
+.crimson h2{
+    text-decoration: underline;
+}
+.crim-text{
+    text-align: center;
+    margin: 45px;
+    padding-left: 45px;
+
+}
+.captain{
+    display: flex;
+    align-items: center;
+}
+.captain h2{
+    text-decoration: underline;
+}
+.cap-text{
+    text-align: center;
+    margin: 45px;
+    padding-right: 45px;
+}
+
+.interest{
+    position: relative;
+}
+.interest-img{
+    display: flex;
+    justify-content: center;
+}
+#asakusa {
+    border: 2px solid black;
+    margin: 50px;
+}
+
+#bath {
+    border: 2px solid black;
+    margin: 50px;
+}
+
+.int-text {
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+}
+
+.bath-text{
+    text-align: center;
+}
+
+.asakusa-text{
+    text-align: center;
+}
